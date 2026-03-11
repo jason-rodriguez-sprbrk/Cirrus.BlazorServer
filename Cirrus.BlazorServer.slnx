@@ -1,3 +1,7 @@
 <Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/design-library/">
+    <Project Path="src/design-library/Sprbrk.Poc.DesignLibrary/Sprbrk.Poc.DesignLibrary.csproj" />
+  </Folder>
   <Project Path="Cirrus.BlazorServer/Cirrus.BlazorServer.csproj" />
 </Solution>
